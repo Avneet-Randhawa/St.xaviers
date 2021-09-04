@@ -1,0 +1,66 @@
+iframe{
+    margin-right: -90px;
+    margin-left: -90px;
+}
+marquee{
+    font-size: 30px;
+    
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: yellow;
+}
+
+.imgend{
+    height: 100px;
+    width: 200px;
+    
+}
+
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+.environment_li p{
+    margin-top: 10px;
+}
+.environment_li img{
+    border-radius: 25px;
+}
+.book hr {
+    margin-bottom: 10px; 
+} 
+.modal-content {
+    margin-top: 100px; 
+} 
+.img_modal {
+    display: inline-block; 
+}
+.p_modal {
+    margin-top: 10px;
+}
+.modal-body
+{ text-align: center
+}
+#Vidya{
+    height: 225px;
+    width: 225px;
+}
+#Aditya{
+    height: 225px;
+    width: 90%;
+}
